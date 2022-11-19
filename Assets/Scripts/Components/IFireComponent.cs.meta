@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/Scripts/Components/IFireComponent.cs.meta
+guid: df40ee4e45702cc4a88e353f9af87c72
+=======
+guid: 58feba383aaf1994db3ee7b5fc63c0cf
+>>>>>>> Stashed changes:Assets/Scripts/Primitives/IntBehaviour.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
